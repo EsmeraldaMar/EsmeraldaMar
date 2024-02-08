@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EsmeraldaMar
 - 👀 I’m interested in creating things, music and other cool stuff 
-- 🌱 I’m currently learning C, Python and Javascript
+- 🌱 I’m currently learning Javascript, REACT, SASS
 - 💞️ I’m looking to collaborate on creating and designing websites and animations
 - 📫 How to reach me ...
 
